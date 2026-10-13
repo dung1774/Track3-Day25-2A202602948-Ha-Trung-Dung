@@ -1,7 +1,8 @@
 # Lab 25B — Báo cáo Production Reliability
 
-**Họ tên / nhóm:** Hà Trung Dũng — **MSV:** 2A202602948  
-**Commit:** PENDING_FIRST_COMMIT  
+**Họ tên / nhóm:** Hà Trung Dũng — **MSV:** 2A202602948
+
+**Commit:** d123918d27a8402403aa6853556337524a59e7f7
 **Điểm tự động (`python scripts/grade.py --seeds 25,26,27`):** 84 / 88
 
 Các bảng chính dùng seed 25 để khớp trực tiếp với artifact trong `reports/`; bài chấm cuối đồng thời chạy seed 25, 26, 27 và tất cả băng production/cache đều PASS trên cả ba seed. Bốn điểm SLO ẩn không có dữ liệu để chấm tại máy sinh viên.
